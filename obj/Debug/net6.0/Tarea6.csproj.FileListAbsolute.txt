@@ -1,0 +1,15 @@
+C:\Users\perey\Desktop\gitcode\Tarea6\bin\Debug\net6.0\Tarea6.exe
+C:\Users\perey\Desktop\gitcode\Tarea6\bin\Debug\net6.0\Tarea6.deps.json
+C:\Users\perey\Desktop\gitcode\Tarea6\bin\Debug\net6.0\Tarea6.runtimeconfig.json
+C:\Users\perey\Desktop\gitcode\Tarea6\bin\Debug\net6.0\Tarea6.dll
+C:\Users\perey\Desktop\gitcode\Tarea6\bin\Debug\net6.0\ref\Tarea6.dll
+C:\Users\perey\Desktop\gitcode\Tarea6\bin\Debug\net6.0\Tarea6.pdb
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.csproj.AssemblyReference.cache
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.AssemblyInfoInputs.cache
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.AssemblyInfo.cs
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.csproj.CoreCompileInputs.cache
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.dll
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\ref\Tarea6.dll
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.pdb
+C:\Users\perey\Desktop\gitcode\Tarea6\obj\Debug\net6.0\Tarea6.genruntimeconfig.cache
